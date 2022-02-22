@@ -275,12 +275,12 @@ form {
   
   .first-section{
     background-position: 0px 0px;
-    /* width: 150%; */
+    width: 150%;
     height: 100vh;
   }
   
   .row{
-    /* width: 150%; */
+    width: 150%;
   }
 
 }
