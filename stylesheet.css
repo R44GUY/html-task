@@ -281,6 +281,19 @@ form {
     height: 60rem;
   }
   
+  .navbar{
+    width: 150%;
+  }
+
+  .column{
+    padding: 40px;
+  }
+
+  .sec-2-imgs{
+    width: 175px;
+    height: 170px;
+  }
+
   .row{
     width: 150%;
   }
